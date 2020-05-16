@@ -1,0 +1,35 @@
+body {
+    background-image:url(C:\Users\Brenda Pacheco\Desktop\Suely CSS);
+      font-family:Arial;
+      background-size:auto 110vh;
+      }
+    
+    .menu {
+      background-color:orange;
+          }
+    a{
+      text-decoration:none;
+        color:brown;
+     }
+    a:hover{
+      text-decoration:underline;
+      color:gray;
+      font-size: 130%;
+      }
+    .menu li{
+      list-style:none;
+    
+    }
+    .menu ul{
+      display: flex;
+      justify-content:space-around;
+          }
+    
+    .site-title,
+    .site-subtitle{
+      text-align:center;
+      color:black;
+    }
+    .site-subtitle{
+      font-family:italico;
+    }
