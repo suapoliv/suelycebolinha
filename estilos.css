@@ -1,19 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}  
 body {
     background-image:url(https://image.freepik.com/fotos-gratis/a-vista-bonita-do-close-up-do-verde-da-natureza-sae-no-fundo-borrado-da-arvore-das-hortalicas-com-o-parque-do-jardim-da-luz-solar-em-publico_50039-1136.jpg);
       font-family:Arial;
-      background-size:auto 100vh;
-      }
+      background-size:auto 110vh;
+      height: 100vh;
+      
+}
     
     .menu {
       background-color:orange;
+      
           }
     a{
       text-decoration:none;
-        color:brown;
+        color:purple;
      }
     a:hover{
       text-decoration:underline;
-      color:gray;
+      color:blue;
       font-size: 130%;
       }
     .menu li{
