@@ -35,8 +35,9 @@ body {
     
     .site-title,
     .site-subtitle{
-      text-align:center;
-      color:black;
+     text-align:center;
+     color:black;
+     font-family: 'Dancing Script', cursive;
     }
     .site-subtitle{
       font-family:italico;
