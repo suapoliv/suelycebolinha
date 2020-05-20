@@ -6,8 +6,8 @@
 body {
     background-image:url(https://image.freepik.com/fotos-gratis/a-vista-bonita-do-close-up-do-verde-da-natureza-sae-no-fundo-borrado-da-arvore-das-hortalicas-com-o-parque-do-jardim-da-luz-solar-em-publico_50039-1136.jpg);
       font-family:Arial;
-      background-size:auto 110vh;
-      height: 100vh;
+      background-size:auto 100 vh;
+      height: 100 vh;
       
 }
     
@@ -31,6 +31,7 @@ body {
     .menu ul{
       display: flex;
       justify-content:space-around;
+      text-height: 2em;
           }
     
     .site-title,
@@ -38,6 +39,7 @@ body {
      text-align:center;
      color:black;
      font-family: 'Dancing Script', cursive;
+        text-height:2em;
     }
     .site-subtitle{
       font-family:italico;
